@@ -1,0 +1,19 @@
+{
+  "name": "prueba_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^27.0.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
