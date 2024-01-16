@@ -1,7 +1,19 @@
-nav {
-    background-color: rgb(33, 33, 110);   
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+
+
+
+li {
+    font-size: 20px;
+    list-style: none;
+    
 }
 
 a {
-    color: white;
+    text-decoration: none;
+}
+
+#maintextnav {
+    font-size:  22px;
+    color: blueviolet;
 }
